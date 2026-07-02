@@ -1,0 +1,18 @@
+Command: cd "C:\Users\AMOR\clube-da-cana-fc" && mkdir img 2>nul & dir
+Shell: cmd
+Directory: C:\Users\AMOR\clube-da-cana-fc
+Exit Code: 0
+stdout:
+O volume na unidade C n�o tem nome.
+ O N�mero de S�rie do Volume � 86E5-8DB9
+
+ Pasta de C:\Users\AMOR\clube-da-cana-fc
+
+02/07/2026  18:26    <DIR>          .
+02/07/2026  18:22    <DIR>          ..
+02/07/2026  18:24    <DIR>          css
+02/07/2026  18:26    <DIR>          img
+02/07/2026  18:24    <DIR>          js
+02/07/2026  18:20           109.090 logo.png
+               1 arquivo(s)        109.090 bytes
+               5 pasta(s)   57.568.636.928 bytes dispon�veis

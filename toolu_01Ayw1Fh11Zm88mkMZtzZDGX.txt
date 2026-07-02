@@ -1,0 +1,15 @@
+Command: dir "C:\Users\AMOR\clube-da-cana-fc" & if exist "C:\Users\AMOR\.verdent\storage\profiles\prod-s1\workspaces\749788994486173696--proj_a243d23479a9222d\shared\blobs\sha256\ce\57\ce57d145723aa26eb13add13c73f0d3fd136b0db996ee98fe5addc8a369517c3" (echo FOUND) else (echo NOTFOUND)
+Shell: cmd
+Directory: C:\Users\AMOR\clube-da-cana-fc
+Exit Code: 0
+stdout:
+O volume na unidade C n�o tem nome.
+ O N�mero de S�rie do Volume � 86E5-8DB9
+
+ Pasta de C:\Users\AMOR\clube-da-cana-fc
+
+02/07/2026  18:22    <DIR>          .
+02/07/2026  18:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   57.570.160.640 bytes dispon�veis
+FOUND
